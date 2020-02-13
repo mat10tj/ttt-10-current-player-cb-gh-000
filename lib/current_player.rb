@@ -7,5 +7,6 @@ def turn_count(board)
       binding.pry
     end
   end
+  binding.pry
   counter
 end
